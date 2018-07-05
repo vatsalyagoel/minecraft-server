@@ -1,8 +1,8 @@
 {
     "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
-    "itemDisplayName": "Install a Minecraft Server on an Ubuntu VM.",
-    "description": "This template deploys and sets up a customized Minecraft server on an Ubuntu Virtual Machine.",
-    "summary": "Install Minecraft Server on an Ubuntu VM using the Linux Custom Script Extension",
+    "itemDisplayName": "Install a Windows Server onwith micecraft access.",
+    "description": "This template deploys and sets up a customized server on an Windows Virtual Machine.",
+    "summary": "Install Custom Server on an Windows VM",
     "githubUsername": "vatsalyagoel",
     "dateUpdated": "2018-07-01"
   }
